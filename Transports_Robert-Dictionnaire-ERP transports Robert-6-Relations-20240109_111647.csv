@@ -1,0 +1,13 @@
+"ParentTablePath";"ParentTableType";"Functional Label";"ChildTablePath";"ChildTableType";"Summary"
+"\modele ERP\employés";"\Modèle\Table";"à quel site est rattaché cet employé?";"\modele ERP\sites";"\Modèle\Table";
+"\modele ERP\courses";"\Modèle\Table";"adresse d'arrivée";"\modele ERP\adresses";"\Modèle\Table";
+"\modele ERP\courses";"\Modèle\Table";"chauffeur";"\modele ERP\employés";"\Modèle\Table";
+"\modele ERP\courses";"\Modèle\Table";"destination";"\modele ERP\adresses";"\Modèle\Table";"adresse de destination de la course"
+"\modele ERP\employés";"\Modèle\Table";"où habite cet employé";"\modele ERP\adresses";"\Modèle\Table";
+"\modele ERP\courses";"\Modèle\Table";"quel camion pour cette course ?";"\modele ERP\camions";"\Modèle\Table";
+"\modele ERP\courses";"\Modèle\Table";"qui est le chauffeur de ce voyage?";"\modele ERP\employés";"\Modèle\Table";
+"\modele ERP\clients";"\Modèle\Table";"Ref_clients_adresses";"\modele ERP\adresses";"\Modèle\Table";
+"\modele ERP\clients";"\Modèle\Table";"Ref_clients_adresses";"\modele ERP\adresses";"\Modèle\Table";
+"\referentiel\département";"\Modèle\Table";"Ref_département_adresse";"\modele ERP\adresses";"\Modèle\Table";
+"\referentiel\département";"\Modèle\Table";"Ref_département_adresse";"\modele ERP\adresses";"\Modèle\Table";
+"\referentiel\département";"\Modèle\Table";"Ref_département_adresse";"\modele ERP\adresses";"\Modèle\Table";

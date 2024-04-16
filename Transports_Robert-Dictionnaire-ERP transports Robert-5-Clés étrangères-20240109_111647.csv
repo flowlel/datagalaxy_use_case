@@ -1,0 +1,19 @@
+"FKTechnicalName";"PKTechnicalName";"PkTablePath";"PkTableType";"PkColumnName";"ChildTablePath";"ChildTableType";"ColumnName";"FKDisplayName";"Summary"
+"Ref_adresses_clients";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\clients";"\Modèle\Table";"id_adresse_FK";"Ref_adresses_clients";
+"Ref_adresses_colis";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\colis";"\Modèle\Table";"id_adresse_depart";"Ref_adresses_colis_depart";
+"Ref_adresses_colis";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\colis";"\Modèle\Table";"id_adresse_destination";"Ref_adresses_colis_destination";
+"Ref_adresses_courses";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\courses";"\Modèle\Table";"id_adresse_course_depart";"Ref_adresses_courses_depart";
+"Ref_adresses_courses";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\courses";"\Modèle\Table";"id_adresse_course_destination";"Ref_adresses_courses_destination";
+"Ref_adresses_employés";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\employés";"\Modèle\Table";"id_adresse_FK";"Ref_adresses_employés";
+"Ref_adresses_sites";"PK_adresses";"\modele ERP\adresses";"\Modèle\Table";"id_adresse";"\modele ERP\sites";"\Modèle\Table";"id_adresse_FK";"Ref_adresses_sites";
+"Ref_camions_courses";"PK_camions";"\modele ERP\camions";"\Modèle\Table";"immatriculation";"\modele ERP\courses";"\Modèle\Table";"camion";"Ref_camions_courses";
+"Ref_clients_factures";"PK_clients";"\modele ERP\clients";"\Modèle\Table";"siret";"\modele ERP\factures";"\Modèle\Table";"siret_client";"Ref_clients_factures";
+"Ref_colis_roadmap_colis";"PK_colis";"\modele ERP\colis";"\Modèle\Table";"id_colis";"\modele ERP\suivi_colis";"\Modèle\Table";"id_colis";"voyage";
+"Ref_courses_roadmap_colis";"PK_courses";"\modele ERP\courses";"\Modèle\Table";"id_course";"\modele ERP\suivi_colis";"\Modèle\Table";"id_course";"Ref_courses_roadmap_colis";
+"Ref_employés_courses";"PK_employés";"\modele ERP\employés";"\Modèle\Table";"id_employé";"\modele ERP\courses";"\Modèle\Table";"CHAUFFEUR";"Ref_employés_courses";
+"Ref_employés_employés";"PK_employés";"\modele ERP\employés";"\Modèle\Table";"id_employé";"\modele ERP\employés";"\Modèle\Table";"superieur hierarchique";"n+1";
+"Ref_employés_sites";"PK_employés";"\modele ERP\employés";"\Modèle\Table";"id_employé";"\modele ERP\sites";"\Modèle\Table";"directeur";"Ref_employés_sites";
+"Ref_employés_sites";"PK_employés";"\modele ERP\employés";"\Modèle\Table";"id_employé";"\modele ERP\sites";"\Modèle\Table";;"Ref_employés_sites";
+"Ref_factures_colis";"PK_factures";"\modele ERP\factures";"\Modèle\Table";"id_facture";"\modele ERP\colis";"\Modèle\Table";"facture";"Ref_factures_colis";
+"Ref_sites_employés";"PK_sites";"\modele ERP\sites";"\Modèle\Table";"id_site";"\modele ERP\employés";"\Modèle\Table";;"Ref_sites_employés";
+"Ref_sites_employés";"PK_sites";"\modele ERP\sites";"\Modèle\Table";"id_site";"\modele ERP\employés";"\Modèle\Table";"id_site_FK_1";"Ref_sites_employés";

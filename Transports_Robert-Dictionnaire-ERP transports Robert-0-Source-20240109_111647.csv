@@ -1,0 +1,2 @@
+"Type";"TechnologyCode";"Summary";"SchemaName";"Functional Label";"Description";"Status";"Path";"Tags";"DataOwners";"DataStewards"
+"\Database";"postgresql";"base de donnée clientèle, RH et operationnelle d'une société de transport routier";;"ERP transports Robert";;"Proposé";"\ERP transports Robert";;"pdury@jems-group.com";"dsteward@jems-group.com"

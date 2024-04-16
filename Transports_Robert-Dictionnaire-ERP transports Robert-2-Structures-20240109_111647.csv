@@ -1,0 +1,14 @@
+"Type";"Path";"Functional Label";"Summary";"Description";"TechnicalComments";"TechnologyCode";"Status";"Tags";"GdprContainsPersonalData";"GdprContainsSensitiveData";"DataOwners";"DataStewards";"PersonalDataClass";"Purpose (personal Data) ";"Sentivity";"Feeding process";"Retention duration (in month)";"Update frequency"
+"\Modèle\Table";"\modele ERP\adresses";"adresse";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\camions";"camion";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\clients";"client";"table des clients";;;;"Proposé";;"Oui";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;"24";
+"\Modèle\Table";"\modele ERP\colis";"colis";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\courses";"trajet";"trajet programmé pour un camion et un chauffeur entre deux adresses";;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\referentiel\département";"département";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\employés";"employé";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\factures";"facture";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\referentiel\ISIC codes";"ISIC codes";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\referentiel\pays";"pays";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\referentiel\région";"région";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\sites";"site";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
+"\Modèle\Table";"\modele ERP\suivi_colis";"roadmap_colis";;;;;"Proposé";;"Non";"Non";"pdury@jems-group.com";"dsteward@jems-group.com";"Inconnue";"Non";;;;
